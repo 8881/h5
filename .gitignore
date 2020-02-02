@@ -1,0 +1,22 @@
+.idea
+*.rb
+# Mac
+.DS_Store
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Nodejs
+node_modules
+
+dist
+dist-release
+products
+
+pacakge-lock.json
